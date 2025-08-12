@@ -22,8 +22,7 @@ int foo(int x)
 	LOG("X = " << x)
 	return (x);
 }
-
-
+```
 ```cpp
 int bar(int y)
 {
